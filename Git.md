@@ -7,6 +7,8 @@ Maven skeleton
 * We will be providing a Maven-based repository skeleton to all repositories.
   * There is no requirement to use our template but we think it will be helpful for those who are unfamiliar with Maven.   
   * We will be providing tutorials and other resources in due course.
+* Current progress on this skeleton is available [here](https://github.com/tenjava/repository-template)
+  * If you have an idea for the template, submit a pull request or create an issue ticket!
 
 Before the contest
 ------------------
