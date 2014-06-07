@@ -55,3 +55,9 @@ Code
 * Submissions that are deemed malicious will not be judged and the developer will be disqualified. We may remove the repository in question. We may publicly discuss the submission.
 * Plugins may not include code written outside your selected timeslot or written by another person.
   * If we suspect that code not written during the contest time or code written by another person is deliberately present in the final source of the entry and the entry would be awarded a winning place, we may request proof in the form of recorded video if we feel the VCS commit logs do not provide enough information. Failure to provide sufficient proof may result in disqualification.
+
+Other participants
+==================
+
+* You're welcome to watch other streams (including the official stream) during the contest time(s) and you're welcome to give advice to other participants. We have no problem with people helping others and will encourage it throughout the event.
+* Please ensure you use your own ideas and own code for your submission. Copying concepts from other participants is not okay.
