@@ -53,5 +53,5 @@ Code
 * Code absolutely must compile. Unlike last year, we are making no efforts whatsoever to fix compile errors. Plugins that do not compile will result in disqualification.
 * Be aware that we'll be running plugins on the latest CraftBukkit beta version. Ensure that any NMS/OBC imports use the correct package name and that you are using API available in the latest beta at the time of start of the contest.
 * Submissions that are deemed malicious will not be judged and the developer will be disqualified. We may remove the repository in question. We may publicly discuss the submission.
-* Plugins may not include code not written in the event time or written by another person.
+* Plugins may not include code written outside your selected timeslot or written by another person.
   * If we suspect that code not written during the contest time or code written by another person is deliberately present in the final source of the entry and the entry would be awarded a winning place, we may request proof in the form of recorded video if we feel the VCS commit logs do not provide enough information. Failure to provide sufficient proof may result in disqualification.
