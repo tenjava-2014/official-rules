@@ -5,7 +5,7 @@ Rules
 This repo contains the rules for the July 2014 ten.java contest. You can use commit/line comments to comment on rule changes or PR additions/changes for consideration.
 
 Repository Rules
-=============================================
+================
 
 Maven skeleton
 --------------
@@ -37,4 +37,21 @@ During the contest
 After the contest
 -----------------
 * Access to the repositories will be revoked until judging is complete.
-* You're welcome to continue working on the project either in our repository or by making your own.
+* You're welcome to continue working on the project either in our repository or by making your own once the judging is over.
+
+
+Development rules
+=================
+
+Code
+----
+
+* Code must use the Bukkit API. Code written that depends on APIs provided by forks of (Craft)Bukkit or by external dependencies (e.g. Vault, libraries not available in Bukkit/CraftBukkit etc) cannot be accepted.
+  * Plugins may use NMS/OBC.
+* Your plugin cannot depend on any other plugins.
+  * Your plugin can use the libraries available to (Craft)Bukkit (see [pom.xml](https://github.com/Bukkit/CraftBukkit/blob/master/pom.xml#L54) for more info) at runtime.
+* Code absolutely must compile. Unlike last year, we are making no efforts whatsoever to fix compile errors. Plugins that do not compile will result in disqualification.
+* Be aware that we'll be running plugins on the latest CraftBukkit beta version. Ensure that any NMS/OBC imports use the correct package name and that you are using API available in the latest beta at the time of start of the contest.
+* Submissions that are deemed malicious will not be judged and the developer will be disqualified. We may remove the repository in question. We may publicly discuss the submission.
+* Plugins may not include code not written in the event time or written by another person.
+  * If we suspect that code not written during the contest time or code written by another person is deliberately present in the final source of the entry and the entry would be awarded a winning place, we may request proof in the form of recorded video if we feel the VCS commit logs do not provide enough information. Failure to provide sufficient proof may result in disqualification.
