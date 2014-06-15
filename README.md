@@ -63,7 +63,7 @@ Resource packs
   * Plugins should not 100% rely on the use of a resource pack. Packs should exist only to add to the experience.
   * We will judge your plugin primarily with your resource pack (but may disable it to check the above point).
   * Resource packs should be uploaded under the releases section of your repository as a ZIP file. Packs must be made solely in the timeslot.
-  * Since the focus for ten.java is your idea and code, we are **allowing the use of external assets** as long as the creator's license enables you to use them. Block model changes are not possible in 1.7.x so assets include sounds, textures, music, fonts etc.
+  * Since the focus for ten.java is your idea and code, we are **allowing the use of external assets only in resource packs** as long as the creator's license enables you to use them. Block model changes are not possible in 1.7.x so assets include sounds, textures, music, fonts etc.
   * Bear in mind that we are not judging your use of a resource pack and they should solely be used to add to the experience.
 
 Compilation
