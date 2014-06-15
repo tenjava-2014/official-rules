@@ -56,6 +56,16 @@ Code
 * Plugins may not include code written outside your selected timeslot or written by another person.
   * If we suspect that code not written during the contest time or code written by another person is deliberately present in the final source of the entry and the entry would be awarded a winning place, we may request proof in the form of recorded video if we feel the VCS commit logs do not provide enough information. Failure to provide sufficient proof may result in disqualification.
 
+Resource packs
+--------------
+
+* Resource packs can greatly enhance a player's experience. We're allowing resource packs this year, as long as your use of them meets the following:
+  * Plugins should not 100% rely on the use of a resource pack. Packs should exist only to add to the experience.
+  * We will judge your plugin primarily with your resource pack (but may disable it to check the above point).
+  * Resource packs should be uploaded under the releases section of your repository as a ZIP file. Packs must be made solely in the timeslot.
+  * Since the focus for ten.java is your idea and code, we are **allowing the use of external assets** as long as the creator's license enables you to use them. Block model changes are not possible in 1.7.x so assets include sounds, textures, music, fonts etc.
+  * Bear in mind that we are not judging your use of a resource pack and they should solely be used to add to the experience.
+
 Compilation
 -----------
 
