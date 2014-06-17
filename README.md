@@ -65,6 +65,7 @@ Resource packs
   * Resource packs should be uploaded under the releases section of your repository as a ZIP file. Packs must be made solely in the timeslot.
   * Since the focus for ten.java is your idea and code, we are **allowing the use of external assets only in resource packs** as long as the creator's license enables you to use them. Block model changes are not possible in 1.7.x so assets include sounds, textures, music, fonts etc.
   * Bear in mind that we are not judging your use of a resource pack and they should solely be used to add to the experience.
+  * Any externally sourced assets you use in the resource pack must have been made prior to the contest start time (Sat Jul 12 2014 00:00 UTC). You must provide sources for any external assets you choose to use.
 
 Compilation
 -----------
