@@ -79,3 +79,8 @@ Other participants
 
 * You're welcome to watch other streams (including the official stream) during the contest time(s) and you're welcome to give advice to other participants. We have no problem with people helping others and will encourage it throughout the event.
 * Please ensure you use your own ideas and own code for your submission. Copying concepts from other participants is not okay.
+
+Teams
+=====
+
+* Per the "Code" section, we are not allowing code written by anyone other than the participant to be submitted in the contest. This means teams are not permitted for this contest, though we do want to look into a team-based contest in the future.
