@@ -74,6 +74,7 @@ Compilation
 * You can target your code at Java 6, 7 or 8. All 3 versions will be available on our build server (we'll be using Oracle's versions, FYI).
 * All submissions must use Maven. If you choose to modify our template, you must have a default goal available since we won't be supplying any on our build server.
   * While we cannot accept projects which do not use any build tool, it is up to the organizer's personal discretion as to what we do with projects using Ant, Gradle or other build tools. Maven is highly preferred but we don't want to disqualify people because they used a different tool if it's not too much trouble for us to build.
+  * If there is any setup that your plugin requires after its been compiled, please make sure to document it in the readme
 
 Other participants
 ==================
