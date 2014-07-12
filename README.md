@@ -26,6 +26,7 @@ During the contest
 ------------------
 
 * Access will be restored to the repositories in time for the contest.
+* Pick **one** theme from https://tenjava.com/themes for your timeslot. Add this to your README. You can change theme partway through the contest but this is not recommended.
 * Developers should push to their repository regularly during the contest time.
   * We want to observe your activity throughout the contest, not just one big commit at the end. 
   * If you're committing and pushing less than twice per hour while working then you're doing it wrong.
